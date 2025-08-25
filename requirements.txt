@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-community
+langchain-ollama
+pydantic
+python-dotenv
+pandas
+langchain-milvus
+pymilvus
+requests         
+apache-airflow-providers-common-sql

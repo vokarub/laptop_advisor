@@ -1,0 +1,374 @@
+model,score
+AMD 3020e,943
+AMD A4-9120e,943
+AMD Athlon Gold 7220U,2545
+AMD Athlon Silver 3050e,1175
+AMD Athlon Silver 3050U,899
+AMD Athlon Silver 7120U,899
+AMD Ryzen 3 3200U,1786
+AMD Ryzen 3 3250U,1839
+AMD Ryzen 3 4300U,3571
+AMD Ryzen 3 5300U,5296
+AMD Ryzen 3 5425U,5761
+AMD Ryzen 3 7320C,4391
+AMD Ryzen 3 7320U,4846
+AMD Ryzen 3 7330U,6232
+AMD Ryzen 3 7335U,9676
+AMD Ryzen 3 8440U,8982
+AMD Ryzen 3 PRO 4450U,2120
+AMD Ryzen 5 3450U,2901
+AMD Ryzen 5 3550H,3930
+AMD Ryzen 5 4500U,5920
+AMD Ryzen 5 4600H,8648
+AMD Ryzen 5 4600HS,8765
+AMD Ryzen 5 4600U,8765
+AMD Ryzen 5 4680U,7073
+AMD Ryzen 5 5500U,6988
+AMD Ryzen 5 5560U,6988
+AMD Ryzen 5 5600H,9502
+AMD Ryzen 5 5600HS,9439
+AMD Ryzen 5 5600U,7793
+AMD Ryzen 5 5625U,7983
+AMD Ryzen 5 5650U,6593
+AMD Ryzen 5 6600H,10305
+AMD Ryzen 5 6600HS,9767
+AMD Ryzen 5 6600U,9160
+AMD Ryzen 5 7235HS,9160
+AMD Ryzen 5 7430U,8198
+AMD Ryzen 5 7520C,5117
+AMD Ryzen 5 7520U,5293
+AMD Ryzen 5 7530U,8592
+AMD Ryzen 5 7535HS,10066
+AMD Ryzen 5 7535U,9621
+AMD Ryzen 5 7540U,9813
+AMD Ryzen 5 7640HS,12959
+AMD Ryzen 5 7640U,10675
+AMD Ryzen 5 7645HX,13985
+AMD Ryzen 5 8540U,9802
+AMD Ryzen 5 8640HS,12284
+AMD Ryzen 5 8640U,10433
+AMD Ryzen 5 8645HS,12568
+AMD Ryzen 5 PRO 4650U,6537
+AMD Ryzen 5 PRO 5650U,6429
+AMD Ryzen 5 PRO 5675U,6897
+AMD Ryzen 5 PRO 6650U,8762
+AMD Ryzen 5 PRO 7530U,9333
+AMD Ryzen 5 PRO 7640HS,11507
+AMD Ryzen 7 2700U,3603
+AMD Ryzen 7 3750H,3897
+AMD Ryzen 7 4700U,7138
+AMD Ryzen 7 4800H,11136
+AMD Ryzen 7 4800U,9974
+AMD Ryzen 7 4980U,9164
+AMD Ryzen 7 5700U,8919
+AMD Ryzen 7 5800H,12472
+AMD Ryzen 7 5800HS,12066
+AMD Ryzen 7 5800U,9666
+AMD Ryzen 7 5825U,10523
+AMD Ryzen 7 5850U,9634
+AMD Ryzen 7 6800H,14193
+AMD Ryzen 7 6800HS,13514
+AMD Ryzen 7 6800U,10711
+AMD Ryzen 7 7435H,10711
+AMD Ryzen 7 7435HS,10711
+AMD Ryzen 7 7730U,10421
+AMD Ryzen 7 7735H,10920
+AMD Ryzen 7 7735HS,14003
+AMD Ryzen 7 7735U,10924
+AMD Ryzen 7 7736U​,12768
+AMD Ryzen 7 7745HX,18453
+AMD Ryzen 7 7840H,18453
+AMD Ryzen 7 7840HS,17216
+AMD Ryzen 7 7840U,12173
+AMD Ryzen 7 8840HS,15460
+AMD Ryzen 7 8840U,12671
+AMD Ryzen 7 8845H,12671
+AMD Ryzen 7 8845HS,16821
+AMD Ryzen 7 PRO 4750U,8088
+AMD Ryzen 7 PRO 5850U,8716
+AMD Ryzen 7 PRO 5875U,11530
+AMD Ryzen 7 PRO 6850H,12998
+AMD Ryzen 7 PRO 6850U,10419
+AMD Ryzen 7 PRO 6860Z,11822
+AMD Ryzen 7 PRO 7730U,10095
+AMD Ryzen 7 PRO 7735U,9825
+AMD Ryzen 7 PRO 7840HS,16249
+AMD Ryzen 7 PRO 7840U,12856
+AMD Ryzen 7 PRO 8840HS,14947
+AMD Ryzen 7 PRO 8840U,13450
+AMD Ryzen 9 4900H,11604
+AMD Ryzen 9 4900HS,11006
+AMD Ryzen 9 5900HS,13179
+AMD Ryzen 9 5900HX,12608
+AMD Ryzen 9 5980HS,12629
+AMD Ryzen 9 5980HX,13450
+AMD Ryzen 9 6900HS,13445
+AMD Ryzen 9 6900HX,14111
+AMD Ryzen 9 6980HS,14736
+AMD Ryzen 9 6980HX,14711
+AMD Ryzen 9 7845HX,25709
+AMD Ryzen 9 7940H,25709
+AMD Ryzen 9 7940HS,17200
+AMD Ryzen 9 7940HX,33370
+AMD Ryzen 9 7945HX,34557
+AMD Ryzen 9 7945HX3D,32782
+AMD Ryzen 9 8945H,17423
+AMD Ryzen 9 8945HS,17917
+AMD Ryzen 9 9955HX,19000
+AMD Ryzen 9 9955HX3D,19000
+AMD Ryzen 9 Al Max+ 395,19000
+AMD Ryzen 9 PRO 6950H,14086
+AMD Ryzen 9 PRO 6950HS,11515
+AMD Ryzen 9 PRO 7940HS,16938
+AMD Ryzen AI 5 340,14495
+AMD Ryzen AI 7 350,14495
+AMD Ryzen AI 7 PRO 360,13794
+AMD Ryzen AI 9 365,16745
+AMD Ryzen AI 9 HX 370,21786
+AMD Ryzen AI 9 HX 375,21812
+AMD Ryzen AI Max+ 395,30433
+AMD Ryzen Embedded R1606G,1842
+AMD Ryzen Z1 Extreme,14249
+AMD Ryzen Z2 Go,5778
+Apple M1,7735
+Apple M1 Max,12376
+Apple M1 Pro,12370
+Apple M1 Pro (10-core),12370
+Apple M1 Pro (8-core),9167
+Apple M2,8739
+Apple M2 (10-core CPU),8739
+Apple M2 (8-core CPU),8530
+Apple M2 8-core,8530
+Apple M2 Max,14766
+Apple M2 Pro,11811
+Apple M2 Pro (10-core CPU),11811
+Apple M2 Pro (12-core CPU),14765
+Apple M3,10471
+Apple M3 (8-core CPU),10471
+Apple M3 Max,21811
+Apple M3 Max (14-core CPU),21811
+Apple M3 Max (16-core CPU),24022
+Apple M3 Pro,13315
+Apple M3 Pro (11-core CPU),13315
+Apple M3 Pro (12-core CPU),15123
+Apple M4 10-core,19823
+Apple M4 Max (16-core CPU),27595
+Apple M4 Max 14-core,19823
+Apple M4 Pro (12-core CPU),19823
+Apple M4 Pro (14-core CPU),23465
+Apple M4 Pro 12-core,19823
+Apple M4 Pro 14-core,23465
+Intel Celeron 6305,1072
+Intel Celeron 7305,1422
+Intel Celeron J4125,1563
+Intel Celeron N100,173
+Intel Celeron N3350,173
+Intel Celeron N4020,842
+Intel Celeron N4020C,842
+Intel Celeron N4100,961
+Intel Celeron N4120,1259
+Intel Celeron N4500,922
+Intel Celeron N5095,2219
+Intel Celeron N5095A,2227
+Intel Celeron N5100,466
+Intel Celeron N5105,2175
+Intel Core 3 100U,6443
+Intel Core 3 N355,5262
+Intel Core 5 120U,8523
+Intel Core 5 210H,8523
+Intel Core 5 220H,11198
+Intel Core 7 150U,9006
+Intel Core 7 240H,14686
+Intel Core i3-1005G1,2015
+Intel Core i3-10110U,2142
+Intel Core i3-10110Y,1375
+Intel Core i3-1110G4,1868
+Intel Core i3-1115G4,3056
+Intel Core i3-1125G4,5100
+Intel Core i3-1215U,6095
+Intel Core i3-1220P,8811
+Intel Core i3-1305U,4281
+Intel Core i3-1315U,5914
+Intel Core i3-8109U,2004
+Intel Core i3-N300,2546
+Intel Core i3-N305,4792
+Intel Core i5-10200H,5372
+Intel Core i5-10210U,3303
+Intel Core i5-10300H,4666
+Intel Core i5-10310U,3094
+Intel Core i5-1035G1,3240
+Intel Core i5-1035G4,3800
+Intel Core i5-10400H,8146
+Intel Core i5-10500H,8200
+Intel Core i5-11260H,9000
+Intel Core i5-11300H,6118
+Intel Core i5-1130G7,3237
+Intel Core i5-11320H,5852
+Intel Core i5-1135G7,5044
+Intel Core i5-11400H,8649
+Intel Core i5-1140G7,2611
+Intel Core i5-1145G7,4769
+Intel Core i5-11500H,8853
+Intel Core i5-1155G7,5625
+Intel Core i5-1230U,4911
+Intel Core i5-1235U,7868
+Intel Core i5-1240P,9649
+Intel Core i5-1240U,7902
+Intel Core i5-12450H,10795
+Intel Core i5-12450HX,10918
+Intel Core i5-1245U,8093
+Intel Core i5-12500H,12159
+Intel Core i5-1250P,7282
+Intel Core i5-12600H,13730
+Intel Core i5-1334U,8769
+Intel Core i5-1335U,8302
+Intel Core i5-1340P,11075
+Intel Core i5-13420H,12434
+Intel Core i5-13450HX,16225
+Intel Core i5-1345U,8990
+Intel Core i5-13500H,15088
+Intel Core i5-13500HX,17489
+Intel Core i5-1350P,11044
+Intel Core i5-13600H,15091
+Intel Core i5-13600HX,20408
+Intel Core i5-14450HX,15336
+Intel Core i5-14500HX,18401
+Intel Core i5-8250U,3108
+Intel Core i5-8257U,4033
+Intel Core i5-8259U,3728
+Intel Core i5-8260U,3028
+Intel Core i5-8265U,3500
+Intel Core i5-8400H,4657
+Intel Core i5-L16G7,1810
+Intel Core i7-10510U,3734
+Intel Core i7-10610U,4049
+Intel Core i7-1065G7,3437
+Intel Core i7-10710U,4079
+Intel Core i7-10750H,7213
+Intel Core i7-10810U,4709
+Intel Core i7-10870H,8669
+Intel Core i7-10875H,8890
+Intel Core i7-11370H,6570
+Intel Core i7-11375H,6544
+Intel Core i7-11390H,5660
+Intel Core i7-11600H,10548
+Intel Core i7-1160G7,4235
+Intel Core i7-1165G7,5087
+Intel Core i7-11800H,12345
+Intel Core i7-1180G7,3697
+Intel Core i7-11850H,12116
+Intel Core i7-1185G7,5524
+Intel Core i7-1195G7,5481
+Intel Core i7-1250U,6875
+Intel Core i7-1255U,7894
+Intel Core i7-1260P,9960
+Intel Core i7-1260U,7444
+Intel Core i7-12650H,13152
+Intel Core i7-1265U,8090
+Intel Core i7-12700H,15486
+Intel Core i7-1270P,9359
+Intel Core i7-12800H,15387
+Intel Core i7-12800HX,18680
+Intel Core i7-1280P,13075
+Intel Core i7-12850HX,19174
+Intel Core i7-1355U,9036
+Intel Core i7-1360P,11667
+Intel Core i7-13620H,15369
+Intel Core i7-13650HX,19865
+Intel Core i7-1365U,9554
+Intel Core i7-13700H,16950
+Intel Core i7-13700HX,21239
+Intel Core i7-13705H,18765
+Intel Core i7-1370P,12969
+Intel Core i7-13800H,17591
+Intel Core i7-13850HX,24702
+Intel Core i7-14650HX,23512
+Intel Core i7-14700HX,25021
+Intel Core i7-8550U,2914
+Intel Core i7-8665U,2729
+Intel Core i7-8850H,5742
+Intel Core i9-10885H,9400
+Intel Core i9-10980HK,10600
+Intel Core i9-11900H,12128
+Intel Core i9-11950H,12085
+Intel Core i9-11980HK,13970
+Intel Core i9-12900H,16894
+Intel Core i9-12900HK,17166
+Intel Core i9-12900HX,19272
+Intel Core i9-12950HX,18618
+Intel Core i9-13900H,18664
+Intel Core i9-13900HK,19704
+Intel Core i9-13900HX,27225
+Intel Core i9-13905H,18188
+Intel Core i9-13950HX,30000
+Intel Core i9-13980HX,31667
+Intel Core i9-14900HX,31287
+Intel Core i9-9880H,8747
+Intel Core m3-7Y32,1293
+Intel Core Ultra 5 115U,7569
+Intel Core Ultra 5 125H,13113
+Intel Core Ultra 5 125U,10071
+Intel Core Ultra 5 134U,5572
+Intel Core Ultra 5 135H,14557
+Intel Core Ultra 5 135U,10532
+Intel Core Ultra 5 226V,9045
+Intel Core Ultra 5 228V,9071
+Intel Core Ultra 5 236V,9381
+Intel Core Ultra 5 238V,9390
+Intel Core Ultra 7 155H,15507
+Intel Core Ultra 7 155U,10075
+Intel Core Ultra 7 164U,8687
+Intel Core Ultra 7 165H,17230
+Intel Core Ultra 7 165U,10856
+Intel Core Ultra 7 255H,10580
+Intel Core Ultra 7 255HX,10580
+Intel Core Ultra 7 256V,10580
+Intel Core Ultra 7 258V,10216
+Intel Core Ultra 7 266V,10991
+Intel Core Ultra 7 268V,11081
+Intel Core Ultra 9 185H,19056
+Intel Core Ultra 9 275HX,19056
+Intel Core Ultra 9 285H,17936
+Intel Core Ultra 9 285HX,17936
+Intel Core Ultra 9 288V,13401
+Intel N100,1000
+Intel N200,1000
+Intel Pentium 4415U,1366
+Intel Pentium 8505,5423
+Intel Pentium Gold 4425Y,964
+Intel Pentium Gold 5405U,1390
+Intel Pentium Gold 7505,2600
+Intel Pentium Silver N5000,1232
+Intel Pentium Silver N5030,911
+Intel Pentium Silver N6000,1792
+Intel Pentium Silver N6005,1833
+Intel Processor N100,2267
+Intel Processor N200,1807
+Intel Processor N95,2770
+Intel Processor N97,2913
+Intel Processor U300,4082
+Intel Xeon W-10885M,6893
+Intel Xeon W-11855M,10500
+Intel Xeon W-11955M,10800
+Qualcomm Snapdragon 7c,830
+Qualcomm Snapdragon 7c Gen 2,992
+Qualcomm Snapdragon 8cx Gen 3,3676
+Qualcomm Snapdragon X Elite X1E-78-100,11938
+Qualcomm Snapdragon X Elite X1E-78-100,1
+Qualcomm Snapdragon X Elite X1E-80-100,10536
+Qualcomm Snapdragon X Elite X1E-84-100,9471
+Qualcomm Snapdragon X Plus X1P 42 100,6792
+Qualcomm Snapdragon X Plus X1P 42 100,1
+Qualcomm Snapdragon X Plus X1P 42 100,1
+Qualcomm Snapdragon X Plus X1P-26-100,6897
+Qualcomm Snapdragon X Plus X1P-42-100,6792
+Qualcomm Snapdragon X Plus X1P-46-100,6896
+Qualcomm Snapdragon X Plus X1P-64-100,8690
+Qualcomm Snapdragon X Plus X1P-66-100,8794
+Qualcomm Snapdragon X X1-26-100,6897
+Qualcomm Snapdragon X X1-26-100,1
+Snapdragon 7c+ Gen 3,1155
+Valve Steam Deck (AMD Custom APU 0405),4359
+Zhaoxin KX-6640MA,1
+Zhaoxin KX-6640MA,1
+,1

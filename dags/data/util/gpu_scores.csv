@@ -1,0 +1,290 @@
+model,score
+AMD Radeon 610M,800
+AMD Radeon 660M,800
+AMD Radeon 680M,800
+AMD Radeon 760M,800
+AMD Radeon 780M,800
+AMD Radeon 8060S Graphics,800
+AMD Radeon 840M,800
+AMD Radeon 860M,800
+AMD Radeon 880M,800
+AMD Radeon 890M,800
+AMD Radeon Graphics,800
+AMD Radeon RX Vega 7,800
+AMD Radeon Vega 6,800
+AMD Radeon Vega 7,800
+AMD Radeon Vega 8,800
+Apple M1,8530
+Apple M1 7-core,8530
+Apple M1 Max,8530
+Apple M1 Pro,8530
+Apple M1 Pro (10-core),8530
+Apple M1 Pro (8-core),8530
+Apple M1 Pro 16-core,8530
+Apple M2,8530
+Apple M2 (10-core CPU),8530
+Apple M2 (8-core CPU),8530
+Apple M2 10-core,8530
+Apple M2 8-core,8530
+Apple M2 Max,10471
+Apple M2 Pro,10471
+Apple M2 Pro (10-core CPU),10471
+Apple M2 Pro (12-core CPU),10471
+Apple M2 Pro 16-core,10471
+Apple M3,10471
+Apple M3 (8-core CPU),10471
+Apple M3 10-core,10471
+Apple M3 8-core,10471
+Apple M3 Max,12980
+Apple M3 Max (14-core CPU),12980
+Apple M3 Max (16-core CPU),12980
+Apple M3 Max 30-core,12980
+Apple M3 Max 40-core,12980
+Apple M3 Pro,13315
+Apple M3 Pro (11-core CPU),13315
+Apple M3 Pro (12-core CPU),15123
+Apple M3 Pro 14-core,15123
+Apple M3 Pro 18-core,15123
+Apple M4 10-core,15123
+Apple M4 8-core,15123
+Apple M4 Max (16-core CPU),15123
+Apple M4 Max 14-core,15123
+Apple M4 Max 32-core,15123
+Apple M4 Pro (12-core CPU),15123
+Apple M4 Pro (14-core CPU),15123
+Apple M4 Pro 12-core,15123
+Apple M4 Pro 14-core,15123
+Apple M4 Pro 16-core,15123
+Apple M4 Pro 20-core,15123
+C-960 Graphics,100
+GeForce 920M (4GB DDR3),329
+GeForce 920MX (2GB DDR3),417
+GeForce 930MX (2GB DDR3),493
+GeForce 940MX (2GB GDDR5),626
+GeForce GTX 1050 (2GB GDDR5),1744
+GeForce GTX 1050 (3GB GDDR5),2130
+GeForce GTX 1050 (4GB GDDR5),1681
+GeForce GTX 1050 Max-Q (40W),1615
+GeForce GTX 1050 Ti (4GB GDDR5),2326
+GeForce GTX 1050 Ti Max-Q (4GB GDDR5),2261
+GeForce GTX 1060 (3GB GDDR5),3689
+GeForce GTX 1060 (6GB GDDR5),3790
+GeForce GTX 1060 Max-Q (6GB GDDR5),3324
+GeForce GTX 1070 (8GB GDDR5),5485
+GeForce GTX 1070 Max-Q (8GB GDDR5),4708
+GeForce GTX 1080 (8GB GDDR5X),6917
+GeForce GTX 1080 Max-Q (8GB GDDR5X),5869
+GeForce GTX 1650,3427
+GeForce GTX 1650 Max-Q,2877
+GeForce GTX 1650 Ti,3614
+GeForce GTX 1650 Ti Max-Q,3079
+GeForce GTX 1650 Ti Max-Q (50W),3537
+GeForce GTX 1660 Ti,5582
+GeForce GTX 1660 Ti Max-Q,4979
+GeForce GTX 950M (2GB GDDR5),971
+GeForce GTX 960M (4GB GDDR5),1148
+GeForce GTX 965M (2GB GDDR5),1810
+GeForce GTX 980M (8GB GDDR5),2805
+GeForce MX110 (2GB GDDR5),451
+GeForce MX130 (2GB GDDR5),662
+GeForce MX150 (2GB GDDR5),1046
+GeForce MX230 (2GB GDDR5),748
+GeForce MX250 (10W),834
+GeForce MX250 (25W),1134
+"GeForce MX330 (2GB GDDR5, 25W)",1046
+"GeForce MX330 (4GB GDDR5, 25W)",1073
+GeForce MX350,1351
+GeForce MX350 (10W),1064
+GeForce MX350 (25W),1342
+GeForce MX450,2140
+"GeForce MX450 (GDDR5, 25W)",1932
+"GeForce MX450 (GDDR6, 12W)",1682
+"GeForce MX450 (GDDR6, 25W / 28.5W)",2289
+GeForce MX550,2373
+GeForce MX550 (35W),2572
+GeForce MX570,2814
+GeForce MX570 (30W),3080
+GeForce RTX 2050,3903
+GeForce RTX 2060,6618
+GeForce RTX 2060 Max-Q,5639
+GeForce RTX 2070 Max-Q,6426
+GeForce RTX 2070 SUPER Max-Q,7578
+GeForce RTX 2070 SUPER Max-Q (90W),7454
+GeForce RTX 2080 Max-Q,7923
+GeForce RTX 2080 SUPER,9700
+GeForce RTX 2080 SUPER Max-Q,8550
+GeForce RTX 2080 SUPER Max-Q (80W),8106
+GeForce RTX 2080 SUPER Max-Q (90W),9203
+GeForce RTX 3050,5506
+GeForce RTX 3050 Ti,5970
+GeForce RTX 3060,8864
+GeForce RTX 3070,10741
+GeForce RTX 3070 Ti,11638
+GeForce RTX 3080,12427
+GeForce RTX 3080 Ti,13304
+GeForce RTX 4050,8983
+GeForce RTX 4060,11267
+GeForce RTX 4070,13108
+GeForce RTX 4080,19480
+GeForce RTX 4090,21474
+Intel Arc (7-Cores),3607
+Intel Arc (8-Cores),3547
+Intel Arc 140T,100
+Intel Arc A350M,2623
+Intel Arc A370M,3881
+Intel Arc A530M,5919
+Intel Arc A550M,6017
+Intel Arc A730M,10100
+Intel Arc A770M,10783
+Intel Arc Graphics,100
+Intel Arc Graphics 130V,3242
+Intel Arc Graphics 140V,4214
+Intel Graphics,100
+Intel Graphics (4-Cores),1935
+Intel HD Graphics,100
+Intel HD Graphics 520,263
+Intel HD Graphics 530,235
+Intel HD Graphics 6000,334
+Intel HD Graphics 610,195
+Intel HD Graphics 615,261
+Intel HD Graphics 620,321
+Intel Iris Graphics 550,561
+Intel Iris Graphics 6100,337
+Intel Iris Plus Graphics 640,437
+Intel Iris Plus Graphics 645,550
+Intel Iris Plus Graphics 650,555
+Intel Iris Plus Graphics 655,605
+Intel Iris Plus Graphics G7,631
+Intel Iris Xe Graphics,100
+Intel Iris Xe Graphics G4,685
+Intel Iris Xe Graphics G7 (80EU),1120
+Intel Iris Xe Graphics G7 (96EU),1455
+Intel Iris Xe Max,1891
+Intel UHD 600,100
+Intel UHD Graphics,365
+"Intel UHD Graphics (Alder Lake, 64EU)",1096
+Intel UHD Graphics (Jasper Lake 16 EU),470
+Intel UHD Graphics (Jasper Lake 32 EU),313
+Intel UHD Graphics 600,112
+Intel UHD Graphics 605,148
+Intel UHD Graphics 610,194
+Intel UHD Graphics 615,243
+Intel UHD Graphics 617,300
+Intel UHD Graphics 620,380
+Intel UHD Graphics 630,384
+Intel UHD Graphics 710,100
+Intel UHD Graphics 730,100
+Intel UHD Graphics 770,749
+Intel UHD Graphics G1,425
+Intel UHD Graphics Xe,100
+Intel UHD Graphics Xe 750 (16EU),345
+Intel UHD Graphics Xe 750 (32EU),632
+Intel UHD Graphics Xe G4 (48EU),687
+"Intel UHD Graphics Xe G4 (Tiger Lake, 48EU)",760
+Quadro M2200 (4GB GDDR5),1724
+Quadro M520 (2GB GDDR5),614
+Quadro M600M (2GB GDDR5),631
+Quadro M620 (2GB GDDR5),862
+Quadro P1000 (4GB GDDR5),1395
+Quadro P2000,2046
+Quadro P3000 (6GB GDDR5),2864
+Quadro P3200,4356
+Quadro P5000 (16GB GDDR5),3883
+Quadro P520 (4GB GDDR5),1007
+Quadro P5200,6422
+Quadro P600 (4GB GDDR5),1162
+Quadro P620 (4GB GDDR5),1384
+Quadro T1000 (4GB GDDR5),3261
+Quadro T1000 Max-Q,2881
+Quadro T2000 (4GB GDDR5),3284
+Quadro T2000 Max-Q,3215
+Quadro T550 (25W),2378
+Qualcomm Adreno,100
+Qualcomm Adreno 690,812
+Qualcomm Adreno GPU,100
+Qualcomm Snapdragon X Elite Adreno GPU,1301
+Radeon 520 (2GB GDDR5),397
+Radeon 530 (2GB GDDR5),443
+Radeon 540X (2GB GDDR5),797
+Radeon 610M,537
+Radeon 660M,1576
+Radeon 680M,2194
+Radeon 740M,1768
+Radeon 760M,2411
+Radeon 780M,2628
+Radeon 880M,2943
+Radeon 890M,3254
+Radeon Pro 450 (2GB GDDR5),952
+Radeon Pro 455 (2GB GDDR5),1118
+Radeon Pro 5500M (4GB GDDR6),3364
+Radeon Pro 555 (2GB GDDR5),1078
+Radeon Pro 560 (4GB GDDR5),1376
+Radeon Pro 5600M (8GB HBM2),4606
+Radeon Pro 560X (4GB GDDR5),1614
+Radeon Pro WX 3100 (2GB GDDR5),820
+Radeon Pro WX 3200 (4GB GDDR5),956
+Radeon R3 (Beema),100
+Radeon R5 (Stoney Ridge),255
+Radeon R7 (Bristol Ridge),347
+Radeon R7 M440 (2GB DDR3),381
+Radeon R7 M445 (4GB GDDR5),471
+Radeon R8 M445DX (2GB DDR3),281
+Radeon RX 5300M,3607
+Radeon RX 550,1281
+Radeon RX 5500M (4GB GDDR6),4298
+Radeon RX 550X,1050
+Radeon RX 5600M,6054
+Radeon RX 560X (4GB GDDR5),1789
+Radeon RX 580 (4GB GDDR5),3505
+Radeon RX 640,848
+Radeon RX 6500M,4430
+Radeon RX 6600M,7052
+Radeon RX 6600S,7712
+Radeon RX 6650M,8700
+Radeon RX 6700M,9521
+Radeon RX 6700S,8264
+Radeon RX 6800M,11526
+Radeon RX 6800S,9033
+Radeon RX 6850M XT,11735
+Radeon RX 7600M XT,8562
+Radeon RX 7600S,9113
+Radeon RX 7600S (95W),9142
+Radeon RX 7700S,10204
+Radeon RX 7800M XT,17842
+Radeon RX Vega 10,787
+Radeon RX Vega 3,451
+Radeon RX Vega 5,883
+"Radeon RX Vega 6 (R2000/3000, 15W)",552
+"Radeon RX Vega 6 (R4000/5000, 15W)",731
+"Radeon RX Vega 6 (R4000/5000, 35/45W)",885
+"Radeon RX Vega 7 (R4000/5000, 15W)",968
+"Radeon RX Vega 7 (R4000/5000, 35/45W)",1076
+"Radeon RX Vega 8 (R2000/3000, 15W)",691
+"Radeon RX Vega 8 (R4000/5000, 15W)",1172
+"Radeon RX Vega 8 (R4000/5000, 35/45W)",1204
+Radeon RX Vega M GH (4GB HBM2),2908
+"Radeon RX Vega M GL (Vega 870, 4GB HBM2)",2072
+Radeon Vega 9,872
+RTX 1000 Ada Generation (50W),6749
+RTX 2000 Ada Generation (50W),7301
+RTX 2000 Ada Generation (65W),8847
+RTX 2000 Ada Generation (80W),9158
+RTX 3000 Ada Generation (50W),8837
+RTX 3000 Ada Generation (60W),9283
+RTX 500 Ada Generation (35W),4663
+RTX 5000 Ada Generation (105W),16218
+RTX 5000 Ada Generation (95W),14861
+RTX A1000,4965
+RTX A2000,5503
+RTX A3000,8368
+RTX A4500,9388
+RTX A500,2847
+T1200,3370
+T500,1994
+T550,2155
+T600,2763
+Quadro RTX 5000 Ada,10574
+GeForce RTX 5090,28259
+GeForce RTX 5080,26622
+GeForce RTX 5070 Ti,18178
+GeForce RTX 5070,
